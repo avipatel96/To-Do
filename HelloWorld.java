@@ -4,5 +4,6 @@ public class HelloWorld{
         System.out.println("Test for edit!");
         System.out.println("Test for comparison!");
         System.out.println("Compare!");
+        System.out.println("Test for TestMaster!");
     }
 }
