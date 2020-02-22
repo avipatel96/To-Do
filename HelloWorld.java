@@ -6,8 +6,8 @@ public class HelloWorld{
         System.out.println("Compare!");
 
         System.out.println("Branch Test!");
-        
         System.out.println("Account deleted test!");
-        System.out.println("Checking to see where is this commit coming f
+        System.out.println("Checking to see where is this commit coming from");
+        System.out.println("Merge testing");
     }
 }
