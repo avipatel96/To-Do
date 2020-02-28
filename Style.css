@@ -1,0 +1,12 @@
+div {
+    background-color: aquamarine;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: bisque;
+    height: 8%;
+    width: 100%;
+}
